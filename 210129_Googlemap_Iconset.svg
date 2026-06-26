@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 213.46 216.89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a9ad7;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .54px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-1" x="45.23" y="170.61" width="132.07" height="4.71"/>
+    <g>
+      <path class="cls-1" d="M150.72,126.66h-78.99v-51.79h78.99v51.79ZM154.87,70.72h-87.3v60.1h41.57v33.75h4.15v-33.75h41.57v-60.1Z"/>
+      <rect class="cls-1" x="87.54" y="82.14" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="78.08" y="91.59" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="87.53" y="110.49" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="87.54" y="101.04" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="78.08" y="110.49" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="96.99" y="82.14" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="106.45" y="82.14" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="96.99" y="91.59" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="106.45" y="110.49" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="106.45" y="101.04" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="125.36" y="82.14" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="115.91" y="91.59" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="125.36" y="101.04" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="134.82" y="91.59" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="134.82" y="82.14" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="134.82" y="110.49" width="9.46" height="9.46"/>
+      <rect class="cls-1" x="115.91" y="110.49" width="9.46" height="9.46"/>
+    </g>
+  </g>
+  <rect class="cls-2" x="3.57" y="12.21" width="206.31" height="192.46"/>
+</svg>
