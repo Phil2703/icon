@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 116.58 170.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#red);
+      }
+
+      .cls-2 {
+        fill: #b2b1a6;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#Unbenannter_Verlauf_211);
+      }
+    </style>
+    <linearGradient id="red" x1="58.71" y1="163.13" x2="58.04" y2="-2.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e10c75"/>
+      <stop offset=".2" stop-color="#de0c6f"/>
+      <stop offset=".45" stop-color="#d60f5f"/>
+      <stop offset=".73" stop-color="#c91344"/>
+      <stop offset="1" stop-color="#ba1825"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_211" data-name="Unbenannter Verlauf 211" x1="57.58" y1="85.43" x2="116.12" y2="85.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3f2d87"/>
+      <stop offset="1" stop-color="#d51317"/>
+    </linearGradient>
+  </defs>
+  <g id="Ebene_1-2" data-name="Ebene 1">
+    <g>
+      <g>
+        <g>
+          <path class="cls-2" d="M58.3,29.16c-13.31-.04-24.05,10.37-24.16,23.41-.12,12.96,10.67,23.64,23.89,23.68,13.31.04,24.05-10.37,24.16-23.41.12-12.95-10.67-23.64-23.89-23.68Z"/>
+          <path class="cls-2" d="M58.3,29.16c13.23.04,24.01,10.72,23.89,23.68-.12,13.04-10.86,23.45-24.16,23.41-13.23-.04-24.01-10.72-23.89-23.68.12-13.04,10.86-23.45,24.16-23.41Z"/>
+        </g>
+        <path class="cls-1" d="M57.54,170.86c-17.6-21.7-33.39-43.43-45.2-67.84C5.77,89.47.15,75.67,0,60.16-.3,28.62,21.26,3.58,53.44.28c25-2.57,53.64,12.86,61.51,45.2,3.98,16.35.21,32.35-6.39,47.64-11.71,27.11-48.95,75.93-51.02,77.74Z"/>
+      </g>
+      <path class="cls-4" d="M59.21,0c19.27.03,47.71,13.34,55.33,45.83,3.86,16.43.2,32.5-6.19,47.85-11.34,27.24-48.77,75.35-50.78,77.18L59.21,0Z"/>
+      <path class="cls-3" d="M58.26,35.16c13.23.04,24.01,10.72,23.89,23.68-.12,13.04-10.86,23.45-24.16,23.41-13.23-.04-24.01-10.72-23.89-23.68.12-13.04,10.86-23.45,24.16-23.41Z"/>
+    </g>
+  </g>
+</svg>
